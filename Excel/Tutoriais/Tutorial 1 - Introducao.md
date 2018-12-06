@@ -1,17 +1,11 @@
-﻿# Introdução ao Excel
-
-Tópicos a serem cobertos
-
-* O que é uma planilha?
-    Morfologia básica
-    
-* Importando conjunto de dados
+﻿# Tutorial 1: Introdução
+================
 
 ## O que é uma planilha? 
 
 A planilha - ou em inglês _spreadsheet_ -  é uma aplicação de software que tem como finalidade salvar e organizar dados em linhas e colunas.
 
-Usaremos a versão 2016 do Excel neste tutorial, mas tudo deve ser equivalente para outras versões.
+Usaremos a versão 2016 do Excel neste tutorial, mas, vale comentar, que é similar em relação as outras versões.
 
 ![Tela inicial do Excel 2016](../Gifs/intro/tela_inicial.PNG)
 
